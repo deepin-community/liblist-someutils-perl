@@ -3,13 +3,13 @@ Section: perl
 Priority: optional
 Maintainer: Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>
 Uploaders: Lucas Kanashiro <kanashiro@debian.org>
-Build-Depends: debhelper-compat (= 12)
+Build-Depends: debhelper-compat (= 13)
 Build-Depends-Indep: perl,
 # Exclude liblist-someutils-xs-perl so that we only test ::PP implementation
 #                    liblist-someutils-xs-perl <!nocheck>,
                      libmodule-implementation-perl <!nocheck>,
                      libtest-leaktrace-perl <!nocheck>
-Standards-Version: 4.4.1
+Standards-Version: 4.6.2
 Vcs-Browser: https://salsa.debian.org/perl-team/modules/packages/liblist-someutils-perl
 Vcs-Git: https://salsa.debian.org/perl-team/modules/packages/liblist-someutils-perl.git
 Homepage: https://metacpan.org/release/List-SomeUtils
