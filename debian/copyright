@@ -7,7 +7,7 @@ Files: *
 Copyright: 2004-2010, Tassilo von Parseval <tassilo.von.parseval@rwth-aachen.de>
  2011, Aaron Crane <arc@cpan.org>
  2013-2015, Jens Rehsack <rehsack@cpan.org>
- 2019, Dave Rolsky <autarch@urth.org>
+ 2022, Dave Rolsky <autarch@urth.org>
 License: Artistic or GPL-1+
 
 Files: inc/ExtUtils/HasCompiler.pm
